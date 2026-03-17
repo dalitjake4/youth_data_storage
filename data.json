@@ -7,13 +7,5 @@
     "job": "Unemployed",
     "isPWD": "Yes",
     "isIP": "No"
-  },
-  {
-    "name": "a",
-    "age": "15",
-    "gender": "Male",
-    "edu": "ISY",
-    "special": "PWD",
-    "job": "Unemployed"
   }
 ]
